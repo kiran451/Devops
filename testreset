@@ -1,3 +1,10 @@
 i am adding a line to test the reset command
 
 now i ll stage it
+
+now i ll remove this line
+
+and reset the file
+:wq
+
+
